@@ -22,3 +22,4 @@ int maximo = 100;
     cout << contador << endl; 
     sleep(0);
     }
+}
