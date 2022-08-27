@@ -20,5 +20,5 @@ for(int i = 0; i < palavra.size(); i++){
     contador++;
   }
 }
-cout << ""  
+cout << "";  
   }
